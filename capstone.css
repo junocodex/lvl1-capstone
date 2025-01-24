@@ -1,0 +1,13 @@
+body {
+  background-image: url(images/360_F_298201821_e90YxH0f6FBwOvcKhynlwF8sNYxlCMsg.jpg);
+}
+
+.card {
+  margin-top: 50px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+#heading {
+  text-align: center;
+}
